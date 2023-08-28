@@ -1,3 +1,6 @@
 # calculator
 
-![calc](https://github.com/Isha333-web/calculator/assets/85048149/4ffa6faa-b9b9-47d0-948e-6eaa8ac4d8e7)
+
+
+![calc](https://github.com/Isha333-web/calculator/assets/85048149/0fcd23dc-b8d8-4489-8640-4a831fe2cc95)
+
